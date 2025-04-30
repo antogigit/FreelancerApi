@@ -1,0 +1,10 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
